@@ -1,13 +1,13 @@
 # ⚖️ Legal Risk Auditor Pro
 An AI-powered legal assistant designed for SMEs to audit vendor agreements and contracts instantly.
 
-## 🚀 Features
+##  Features
 - **Deep AI Audit**: Uses Llama 3.1 via Groq for high-speed legal analysis.
 - **Visual Risk Gauge**: Real-time risk scoring (0-10) using Plotly.
 - **Multi-Format Export**: Download professional PDF reports for business use or JSON logs for technical records.
 - **Bilingual Support**: Fully functional in English and Hindi.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: Streamlit
 - **AI Engine**: Groq (Llama-3.1-8b-instant)
 - **PDF Engine**: FPDF
